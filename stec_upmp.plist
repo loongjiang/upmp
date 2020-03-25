@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://120.79.18.214/upmp/full_size_image.png</string>
+					<string>https://42.61.50.49/upmp/full_size_image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://120.79.18.214/upmp/display_image.png</string>
+					<string>https://42.61.50.49/upmp/display_image.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
