@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://42.61.50.49/upmp/stec_upmp.ipa</string>
+					<string>https://media.githubusercontent.com/media/loongjiang/upmp/master/stec_upmp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://42.61.50.49/upmp/full_size_image.png</string>
+					<string>https://media.githubusercontent.com/media/loongjiang/upmp/master/full_size_image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://42.61.50.49/upmp/display_image.png</string>
+					<string>https://media.githubusercontent.com/media/loongjiang/upmp/master/display_image.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>install app</string>
+				<string>UPM</string>
 				<key>title</key>
 				<string>UPM</string>
 			</dict>
